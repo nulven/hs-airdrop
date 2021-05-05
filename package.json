@@ -7,10 +7,10 @@
     "hns"
   ],
   "license": "MIT",
-  "repository": "git://github.com/handshake-org/hs-airdrop.git",
-  "homepage": "https://github.com/handshake-org/hs-airdrop",
+  "repository": "git://github.com/nulven/hs-airdrop.git",
+  "homepage": "https://github.com/nulven/hs-airdrop",
   "bugs": {
-    "url": "https://github.com/handshake-org/hs-airdrop/issues"
+    "url": "https://github.com/nulven/hs-airdrop/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/airdrop.js",
