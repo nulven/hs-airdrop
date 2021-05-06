@@ -1,3 +1,5 @@
 build/
+build2/
+data/
 node_modules/
 npm-debug.log
