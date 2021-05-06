@@ -1,0 +1,15 @@
+{
+  "checksum": "85486cbb70b446056c1cdb644e8be69758749bc82d25a701937daa653c94a68f",
+  "root": "e2c0299a1e466773516655f09a64b1e16b2579530de6c4a59ce5654dea45180f",
+  "leaves": 1358,
+  "depth": 11,
+  "participants": 1149,
+  "faucet": 6604076158270,
+  "shares": 1555,
+  "sponsors": 67,
+  "creators": 114,
+  "foss": 27,
+  "naming": 1,
+  "external": 230808510000000,
+  "proofChecksum": "b47ece4044d38e6be2c66445a5a415eb3df2cf79142495e07e4ef51decd0d564"
+}
